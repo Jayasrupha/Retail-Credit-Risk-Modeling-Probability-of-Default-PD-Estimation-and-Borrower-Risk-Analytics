@@ -1,5 +1,4 @@
-# Retail-Credit-Risk-Modeling-Probability-of-Default-PD-Estimation-and-Borrower-Risk-Analytics
-
+# Retail Credit Risk Modeling: Probability of Default (PD) Estimation
 Overview
 
 This project develops a Probability of Default (PD) model to assess the likelihood of borrower default using demographic, financial, and loan-level information.
